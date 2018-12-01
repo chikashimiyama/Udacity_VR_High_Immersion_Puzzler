@@ -19,7 +19,7 @@ The game is created with Unity and tested on Xiaomi RedMi Note 5 with a google-c
 
 
 
-For the project, I creatred a user persona called Motokichi. He is a 42 years old cook and has almost no experience in VR, but watches Sci-Fi movies very often with his wife in an IMAX-Theater nearby. He defenitely has an interest in 3D immersive experience.
+For the project, I creatred a user persona called Motokichi. He is a ramen-bar chef and has almost no experience in VR, but watches Sci-Fi movies very often with his wife in an IMAX-Theater nearby; he defenitely has an interest in 3D immersive experience.
 
 
 
