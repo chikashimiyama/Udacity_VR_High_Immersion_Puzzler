@@ -3,7 +3,7 @@ Puzzler Project
 
 designed by Chikashi Miyama
 
- 
+![](img/entrance.PNG)
 
 Introduction
 ============
@@ -19,28 +19,23 @@ google-cardboard-compatible headset.
 
  
 
-Highlight
----------
-
-The uniqueness of my puzzler is its UI. In VR, it is necessary to select the
-most readable option but the selection of the font is also significantly
-influence the mood and the atmosphere of the game. I selected three different
-fonts for the UI and conducted some user tests in order to find a readable and
-suitable font.
-
- 
-
 Outcomes
 ========
 
-The following pictures are screenshots from the actual game. For more details
-please read the “breakdown” section below and playback the videos.
+The following video depicts the experience of the actual game. For more details
+please read the “breakdown” section below.
+
+ 
+
+[Youtube Video](https://www.youtube.com/watch?v=IeFZDdO06eE)
+
+![](https://img.youtube.com/vi/IeFZDdO06eE/0.jpg)
 
  
 
  
 
-the process
+The process
 ===========
 
 Persona
@@ -78,6 +73,17 @@ like my persona, if I use less English words in the game.
 
  
 
+### Icons design with Inkscape
+
+For creating the oval-shaped panel and play/rewind icons, I used
+[Inkscape](https://inkscape.org/), a free vector-graphic software.
+
+ 
+
+![](img/inkscape.PNG)
+
+ 
+
 ### Implementing of the sketch in Unity
 
 Based on the third draft, I made two icons with Inkscape, installed a font-type
@@ -88,24 +94,28 @@ implemented two UI panels shown below.
 
 ![](img/implmentation.PNG)
 
- 
-
-User testing and iteration
-==========================
-
- 
-
-### User experience
-
-User testing
+After several iterations and based on feed-backs from the user, I decided to
+make the panel transparent, so that the UI doesn’t disturbs the atmosphere of
+the VR space. On the contrary, I used very vivid red color to emphasize the
+button. At the end, I conducted a user test and confirmed that the function of
+“play” and “rewind” button is understandable for her.
 
  
 
+Scaling Issue
+-------------
+
+During the iteration, I realized the metal grid of the entrance is too close to
+my head and it creates an unnatural feeling. At the end, I decided to scale up
+the entire building significantly. I believe this correction creates a good
+contrast between the foreground (the interactive orbs) and the background (the
+building) and helps users to focus on the game content. The following
+screenshots show the image of the dungeon room before and after the scale
+correction.
+
  
 
-###  
-
- 
+![](img/before_after.png)
 
  
 
@@ -114,28 +124,24 @@ Breakdown of final piece
 
  
 
-The entry point of the game, the player can start the game by clicking start
+The entry point of the game, the player can start the game by clicking “play”
 icon.
 
- 
+![](img/start.PNG)
 
  
 
- 
+As soon as the player presses the start icon, she or he is transferred to this
+dungeon room, where the player can play the actual “Simon says” game.
 
-Dungeon room, where the player can play the actual game. Please pay attention to
-the feed-forward and the feedback.
-
- 
-
- 
+![](img/play.PNG)
 
  
 
 The end point of the game, where the player can restart the game by clicking the
 rewind icon.
 
- 
+![](img/end.PNG)
 
  
 
