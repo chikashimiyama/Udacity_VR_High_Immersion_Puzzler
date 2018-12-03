@@ -55,9 +55,11 @@ For creating the oval-shaped panel and play/rewind icons, I used [Inkscape](http
 
 ### Implementing the sketch in Unity
 
-Based on the draft on the right in the photo, I made two icons with Inkscape, installed a true-type font, and downloaded a free image of a treasure box. Using these materials, I implemented two UI panels shown below.
+Based on the draft on the right in the photo, I made two icons with Inkscape, installed a true-type font, and downloaded a free image of a treasure chest. Using these materials, I implemented two UI panels shown below.
 
 ![](img/implmentation.PNG)
+
+The treasure chest image is downloaded from the [clipart-libarary](http://clipart-library.com/clipart/kiKo6jadT.htm).
 
 After several iterations and based on feedbacks from testers, I decided to make the panel transparent, so that the UI doesn’t disturb the atmosphere of the VR space too much. On the contrary, I used very vivid red color to emphasize the play and rewind buttons. At the end, I conducted a user test and checked if the functions of “play” and “rewind” buttons are understandable for the user.
 
