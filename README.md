@@ -22,7 +22,7 @@ Outcomes
 The following video illustrates the experience of the actual game. Please click the thumbnail to watch.
 For more details please read the “breakdown” section below.
 
-![[Youtube Video](https://www.youtube.com/watch?v=IeFZDdO06eE)](https://img.youtube.com/vi/IeFZDdO06eE/0.jpg)
+[![thumbnail](https://img.youtube.com/vi/IeFZDdO06eE/0.jpg)](https://www.youtube.com/watch?v=IeFZDdO06eE)
  
 
 The process
