@@ -97,4 +97,4 @@ The Puzzler is a simple project but showcases essential building-blocks to
 create an immersive VR experience. However, There are still rooms for
 improvement. For example, the light from the torch is too static; a torch in a
 real world emits more unstable light and some additional particle effects may
-provide us with more convincing realism.
+provide us with a more convincing realism.
